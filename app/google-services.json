@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325769702906",
+    "firebase_url": "https://shaketomap-c420d.firebaseio.com",
+    "project_id": "shaketomap-c420d",
+    "storage_bucket": "shaketomap-c420d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325769702906:android:9630dfa61421f1fbef4843",
+        "android_client_info": {
+          "package_name": "com.example.shaketomap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325769702906-1me2addtu781q36751hisbghcrnrbk30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaketomap",
+            "certificate_hash": "4238dd5a4bbcfd10288ef8198d9057e32833587e"
+          }
+        },
+        {
+          "client_id": "325769702906-jf89ke6cf8re2vobo7sk43nf48povc12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbxdeuc_-T-NE2cErEvNx5KpGuopmBCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325769702906-jf89ke6cf8re2vobo7sk43nf48povc12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
